@@ -1,0 +1,38 @@
+# Dependencies
+node_modules/
+
+# .NET build output
+bin/
+obj/
+publish/
+*.zip
+
+# Local database
+*.db
+*.db-shm
+*.db-wal
+
+# Environment secrets (local overrides only — .env.production is safe to commit, it has no secrets)
+.env
+.env.local
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/*
+!.vscode/extensions.json
+.idea/
+
+# Expo
+.expo/
+dist/
+web-build/
+
+# Test coverage
+coverage/

@@ -1,0 +1,17 @@
+{
+  "name": "careflow",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "apps/mobile",
+    "apps/web"
+  ],
+  "scripts": {
+    "start:mobile": "npm run start --workspace=apps/mobile",
+    "start:web": "npm run start --workspace=apps/web",
+    "test:mobile": "npm run test --workspace=apps/mobile"
+  },
+  "devDependencies": {
+    "typescript": "~5.3.3"
+  }
+}

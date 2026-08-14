@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "CareFlow",
+    "slug": "careflow",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "extra": {
+      "apiUrl": "https://careflow-api-sofclj.azurewebsites.net"
+    },
+    "ios": { "supportsTablet": true },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0F4C81"
+      }
+    }
+  }
+}
