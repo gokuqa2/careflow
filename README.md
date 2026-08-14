@@ -4,6 +4,8 @@
 
 CareFlow is a healthcare-inspired care coordination platform built as a senior React Native engineering showcase. It helps operational and clinical teams see high-priority cases, review patients, manage care-related tasks, and update task status. It uses entirely fictional data and is not connected to any real patient records or EHR system.
 
+web:
+https://orange-sand-047ad5d10.7.azurestaticapps.net/
 ---
 
 ## Problem
